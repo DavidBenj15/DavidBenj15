@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## I am...
 - 🔭 a computer science major @ Johns Hopkins University,
 - ✨ passionate about software engineering and curious about ML/AI,
-- ⚾ working on a full stack data analytics platform for the Atlantic League of Professional Baseball! Check it out here: https://alpb-analytics.com/
+- ⚾ co-leading the development of a data analytics platform for the Atlantic League of Professional Baseball! Check it out here: https://alpb-analytics.com/
 
 ## Favorite Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
