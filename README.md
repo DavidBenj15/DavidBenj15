@@ -1,36 +1,31 @@
-# Hi! I'm David Benjamin👋
+# Hi 👋 I'm David Benjamin
 
-<!--
-**DavidBenj15/DavidBenj15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science major** and **Entrepreneurship & Management minor** at **Johns Hopkins University** (Class of 2027).
 
-Here are some ideas to get you started:
+### About Me
+- 🌟 **Aspiring SWE** with a passion for **back-end development**, **AI/ML**, and building **data-driven platforms**
+- 🛰️ **Summer 2025 Software Engineering Intern** at **NASA Goddard Space Flight Center**
+- 🔒 **Major League Hacking (MLH) Site Reliability Engineering Fellow**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## I am...
-- 🔭 a Computer Science major and Entrepreneurship & Management minor @ Johns Hopkins University,
-- ✨ passionate about software engineering and curious about ML/AI,
-- ⚾ co-leading the development of a data analytics platform for the Atlantic League of Professional Baseball! Check it out here: https://alpb-analytics.com/
+### Current Projects
+- ⚾ **Lead developer** of [ALPB Analytics](https://alpb-analytics.com), the **official analytics platform** for the Atlantic League of Professional Baseball
+- ❄️ **ColdMap**: **AI-powered cold chain risk analysis platform** for cell therapy logistics  
 
-## Languages:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-## Technologies:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+### 💻 Languages & Technologies
+#### Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2F%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+#### Tools & Frameworks
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-### Check out some of my public repos below!
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
+---
+🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/david-benjamin-9b342b290/)
+
+✨ Check out some of my public repos below:
