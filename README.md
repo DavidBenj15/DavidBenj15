@@ -3,7 +3,7 @@
 I'm a **Computer Science major** and **Entrepreneurship & Management minor** at **Johns Hopkins University** (Class of 2027).
 
 ### About Me
-- 🌟 **Aspiring SWE** with a passion for **back-end development**, **AI/ML**, and building **data-driven platforms**
+- 🌟 **Aspiring SWE** passionate about **making an impact** through **back-end development** and **data-driven platforms.**
 - 🛰️ **Summer 2025 Software Engineering Intern** at **NASA Goddard Space Flight Center**
 - 🔒 **Major League Hacking (MLH) Site Reliability Engineering Fellow**
 
